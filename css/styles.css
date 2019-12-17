@@ -1,0 +1,21 @@
+/* * {
+    outline: 1px solid red;
+} */ 
+
+.container {
+    outline: 1px solid black;
+    max-width: 800px;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+button {
+    margin: 20px;
+}
+
+.result-box {
+    padding: 10px 150px;
+}
